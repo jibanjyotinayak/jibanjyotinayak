@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jibanjyotinayak
 - 👀 I’m interested in web development and data Science.
 - 🌱 I’m currently learning python, html,css & java Script
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me :jibanjyotinayak07@gmail.com
 
 <!---
