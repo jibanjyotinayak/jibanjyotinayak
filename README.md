@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @jibanjyotinayak
-- 👀 I’m interested in web development and data Science.
+- 👀 I’m interested in Node.js projects, along with Express framework.
 - 🌱 I’m currently learning python, html,css & java Script
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me :jibanjyotinayak07@gmail.com
+
+
+
+
 
 <!---
 jibanjyotinayak/jibanjyotinayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
