@@ -43,6 +43,8 @@
 ![Winston](https://img.shields.io/badge/Winston-000000?style=for-the-badge&logo=winston&logoColor=white)  
 ![Morgan](https://img.shields.io/badge/Morgan-003366?style=for-the-badge&logo=morgan&logoColor=white)  
 
+#### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
 
 
 
